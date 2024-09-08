@@ -1,3 +1,6 @@
+# General-Purpose Processor
+This project was developed as part of the Digital Systems course (COE328) at Toronto Metropolitan University, aiming to apply combinational and sequential circuit knowledge. The GPP was designed to demonstrate basic processor operations including arithmetic calculations and state-based control.
+
 # General-Purpose Processor (GPP) Design Project
 
 ## Introduction
