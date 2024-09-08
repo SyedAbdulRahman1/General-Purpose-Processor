@@ -1,5 +1,3 @@
-# General-Purpose-Processor
-
 # General-Purpose Processor (GPP) Design Project
 
 ## Introduction
